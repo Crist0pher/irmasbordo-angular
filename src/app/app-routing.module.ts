@@ -10,7 +10,7 @@ const routes: Routes = [{
   path: 'form', component: FormComponent
 },
 {
-  path: 'login', component: LoginComponent
+  path: '', component: LoginComponent
 }, {
   path: 'midia', component: MidiaComponent
 },{
