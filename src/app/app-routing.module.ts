@@ -7,14 +7,14 @@ import { FilesComponent } from './src/views/files/files.component'
 
 
 const routes: Routes = [{
-  path: 'form', component: FormComponent
+  path: 'irmasbordo-angular/form', component: FormComponent
 },
 {
-  path: '', component: LoginComponent
+  path: 'irmasbordo-angular', component: LoginComponent
 }, {
-  path: 'midia', component: MidiaComponent
+  path: 'irmasbordo-angular/midia', component: MidiaComponent
 },{
-  path: 'files', component: FilesComponent
+  path: 'irmasbordo-angular/files', component: FilesComponent
 }];
 
 @NgModule({

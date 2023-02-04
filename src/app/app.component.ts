@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'irmasbordo';
+
+  render:string = 'login'
+
+  renderSelect(select:string){
+    this.render = select
+  }
 }
