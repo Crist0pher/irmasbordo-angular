@@ -1,12 +1,11 @@
 .body {
-    max-height: 720px;
     font-family: 'Pompiere', cursive;
-
+    min-height: 100vh;
     background-color: white;
     text-align: center;
     color: black;
     align-items: center;
-    margin-bottom: 30px;
+    border:#9da888 solid 30px
     
 }
 

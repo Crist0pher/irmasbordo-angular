@@ -1,14 +1,14 @@
 
 .body {
+    height: 100vh;
     font-family: 'Pompiere', cursive;
     background-color: white;
     text-align: center;
     color: black;
     align-items: center;
+    border: #9da888 solid 20px;
 }
-html{
-    background-color: white;
-}
+
 .header {
     padding: 30px;
     font-family: 'Pompiere', cursive;
@@ -48,8 +48,7 @@ input {
 
 button {
     
-    margin-top: 20px;
-    margin-right: 321px;
+    margin-top: 40px;
     border: none;
     background-color: none;
     background: none;

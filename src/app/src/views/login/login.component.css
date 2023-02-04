@@ -1,13 +1,11 @@
-html {
-    background-color:#9da888;
-}
 
 #body{
     
     background-color: #9da888; 
     text-align: center;
     font-family: 'Questrial', sans-serif;
-    min-height: 100%;
+    min-height: 100vh;
+    width: 100%;
     color: black;
 }
 
@@ -15,7 +13,6 @@ html {
     display: table;
     font-family: 'Crafty Girls', cursive;
     margin:auto;
-    margin-top: 15px;
     background-color: #3A4429;
     border-radius: 50%;
     width: 130px;

@@ -3,11 +3,11 @@ import { HttpClient } from '@angular/common/http';
 
 
 @Component({
-  selector: 'app-media',
-  templateUrl: './media.component.html',
-  styleUrls: ['./media.component.css']
+  selector: 'app-midia',
+  templateUrl: './midia.component.html',
+  styleUrls: ['./midia.component.css']
 })
-export class MediaComponent implements OnInit {
+export class MidiaComponent implements OnInit {
 
   constructor() { }
   files: any = [1];
